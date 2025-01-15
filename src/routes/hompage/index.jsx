@@ -35,7 +35,7 @@ const Homepage = () => {
       <div className="w-screen h-screen flex items-center">
           {/* Navigation Section */}
           <div className="w-[30%] h-[100%] shadow-2xl rounded-1 border-black bg-white text-center">
-          <img src="../src/assets/shortLogo.png"  alt="" style={{margin: "auto", marginTop:"300px", width:"300px"
+          <img src="/src/assets/shortLogo.png"  alt="" style={{margin: "auto", marginTop:"300px", width:"300px"
           }} />
             <ul className="flex flex-col mt-10 space-y-5 items-center h-full w-full ">
               <h1 className="fs-12" >WEB TOEIC</h1>
