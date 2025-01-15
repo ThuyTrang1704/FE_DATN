@@ -56,7 +56,7 @@ const Homepage = () => {
               })}
             </ul>
           </div>
-          <div className="w-[70%] h-[100%] flex justify-center items-center" style={{backgroundImage: `url("src/assets/hinhtruong.jpg")`,
+          <div className="w-[70%] h-[100%] flex justify-center items-center" style={{backgroundImage: `url("/src/assets/hinhtruong.jpg")`,
             backgroundRepeat: "no-repeat", backgroundSize:" cover"
           }}>
             {/* <img
